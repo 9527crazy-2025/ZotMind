@@ -1,13 +1,3 @@
----
-created: 2026/03/21 14:13:54
-updated: 2026/03/21 14:25:38
-title: 20260321-Readme
-aliases:
-tags:
-rating: 
-status:
-comments:
----
 
 <div align="center">
   <img src="docs/logo.png" alt="ZotMind Logo" width="120" />
