@@ -8,7 +8,6 @@
   <p>
     <img src="https://img.shields.io/badge/Zotero-8%2B-red?logo=zotero" />
     <img src="https://img.shields.io/badge/status-beta-orange" />
-    <img src="https://img.shields.io/badge/license-MIT-blue" />
   </p>
 </div>
 
@@ -88,10 +87,12 @@ ZotMind 是一款专为 Zotero 打造的 **AI 辅助文献阅读助手** 插件�
 
 ## 📄 许可证
 
-[MIT License](LICENSE)
+该插件为闭源插件
 
 ---
 
 <div align="center">
   <sub>如果 ZotMind 提升了你的科研效率，欢迎点一个 ⭐ Star 支持！</sub>
+  <p>欢迎加入交流群</p>
+  <img src="docs/QR_code.jpg" alt="WeChat Group QR Code" width="120" />
 </div>
