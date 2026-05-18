@@ -93,6 +93,6 @@ ZotMind 是一款专为 Zotero 打造的 **AI 辅助文献阅读助手** 插件�
 
 <div align="center">
   <sub>如果 ZotMind 提升了你的科研效率，欢迎点一个 ⭐ Star 支持！</sub>
-  <p>欢迎加入交流群</p>
-  <img src="docs/QR_code.jpg" alt="WeChat Group QR Code" width="120" />
+  <sub>欢迎加入交流群</sub>
+  <img src="docs/QR_code.jpg" alt="WeChat Group QR Code" width="300" />
 </div>
