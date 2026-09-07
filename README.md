@@ -97,6 +97,10 @@ ZotMind 是一款专为 Zotero 打造的 **AI 辅助文献阅读助手** 插件�
 
 该插件为闭源插件
 
+## ❓ FAQ
+
+https://my.feishu.cn/wiki/SZFewHxrdiMsrLk8i09c3a0onwe?from=from_copylink
+
 ---
 
 <div align="center">
