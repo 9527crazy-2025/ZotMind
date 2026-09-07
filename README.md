@@ -43,7 +43,7 @@ ZotMind 是一款专为 Zotero 打造的 **AI 辅助文献阅读助手** 插件�
 
 ### 🖥️ WebChat 模式（节省 Token 费用）
 
-- 通过浏览器扩展（ZotMindBridge）将问题和论文内容发送到 LLM 网页端，并自动回传 LLM 响应到 ZotMind 插件，实现与网页版 AI 的无缝对接。
+- 通过浏览器扩展（[ZotMindBridge](https://github.com/9527crazy-2025/ZotMindBridge)）将问题和论文内容发送到 LLM 网页端，并自动回传 LLM 响应到 ZotMind 插件，实现与网页版 AI 的无缝对接。
 - 当前支持 DeepSeek / ChatGPT，在享受完整对话能力的同时有效节省 Token 费用。
 
 ### ⚡ 沉浸式划词助手
